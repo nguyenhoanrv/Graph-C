@@ -1,0 +1,12 @@
+5 6
+Alpha 1 
+Beta 3 
+Gamma 5
+Omega 8 
+Theta 100 
+1 5
+3 5
+1 8 
+3 8
+5 100 
+100 1

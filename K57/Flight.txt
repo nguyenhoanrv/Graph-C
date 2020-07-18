@@ -1,0 +1,6 @@
+HAN="Ha Noi"
+SGN="Sai Gon"
+DAD="Da Nang"
+HAN SGN 2.0
+HAN DAD 1.5
+DAD SGN 0.1

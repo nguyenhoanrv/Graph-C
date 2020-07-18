@@ -1,0 +1,22 @@
+21
+https://hust.edu.vn/ 1001
+https://www.hust.edu.vn/gioi-thieu 1002
+https://www.hust.edu.vn/dao-tao2 1003
+https://www.hust.edu.vn/thong-tin-tuyen-sinh 1004
+https://www.hust.edu.vn/dang-ky-hoc-tap 1005
+https://www.hust.edu.vn/hoc-bong-hoc-phi1 1006
+https://www.hust.edu.vn/nghien-cuu 1007
+https://dantri.com.vn/ 2001
+https://dantri.com.vn/giao-duc-khuyen-hoc.htm 2101
+https://dantri.com.vn/giao-duc-khuyen-hoc/khuyen-hoc.htm 2102
+https://dantri.com.vn/giao-duc-khuyen-hoc/nu-sinh-bach-khoa-di-3-nuoc.htm 2103
+https://dantri.com.vn/suc-manh-so.htm 2201
+https://dantri.com.vn/suc-manh-so/phan-mem-bao-mat.htm 2202
+https://dantri.com.vn/suc-manh-so/phat-hien-ma-doc-lay-cap-thong-tin-tren-smartphone.htm 2203
+https://dantri.com.vn/giai-tri.htm 2301
+https://www.facebook.com/ 3001
+https://www.facebook.com/dhbkhanoi 3101
+https://www.facebook.com/dhbkhanoi/events 3102
+https://www.chotot.com/ 4001
+https://www.chotot.com/toan-quoc/mua-ban-do-dien-tu 4501
+https://www.chotot.com/tp-ho-chi-minh/quan-tan-binh/mua-ban-laptop/74515945.htm 4601

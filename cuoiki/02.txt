@@ -1,0 +1,7 @@
+6
+http://www.hust.edu.vn/gioi-thieu 1012 
+http://www.hust.edu.vn/thong-diep-cua-hieu-truong 1010
+http://www.hust.edu.vn/thong-tin-tuyen-sinh 1013
+http://www.hust.edu.vn/tuyen-sinh-nghien-cuu-sinh 1015
+http://www.hust.edu.vn/test.html 2001
+http://www.hust.edu.vn/test2.html 2011
